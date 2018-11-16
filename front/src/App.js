@@ -20,6 +20,8 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <a class="f6 link dim br1 ph3 pv2 mb2 dib white bg-black" href="#0">Button Text</a>
+
       </div>
     );
   }
